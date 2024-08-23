@@ -42,7 +42,7 @@
 	},
 	"russian" : {
 		"name" : "Аметист",
-		"description" : "Новый город",
+		"description" : "Новый город Аметист (ориг - Retreat), созданный в стиле восточной мифологии.",
 		"translations" : [
 			"translation/retreat/russian.json"
 		]
